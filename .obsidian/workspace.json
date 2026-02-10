@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "1e6effed8c073b7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4063654db01d525",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55722c0af05eac51",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb2126f3703bb510",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f0b175647fc7ca7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8e3238c833b9569",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5ff222f3f106b84b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e6ff361c23ffe759",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c8e374f4f05a06df",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9f9ea4721f5a483",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "773447bdc3a25476",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LearnESP32/Practical UI Design Tips for Embedded Systems Engineers.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Practical UI Design Tips for Embedded Systems Engineers"
+            }
+          },
+          {
+            "id": "32746fe887602b9c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "LearnESP32/Practical UI Design Tips for Embedded Systems Engineers.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Practical UI Design Tips for Embedded Systems Engineers"
+            }
+          },
+          {
+            "id": "6abc4758a1c971fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9bf33cde18a2edbd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "312da9c2554e9dc5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LearnESP32/Practical UI Design Tips for Embedded Systems Engineers.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Practical UI Design Tips for Embedded Systems Engineers"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d8e3238c833b9569",
+  "lastOpenFiles": [
+    "Learn STM32",
+    "Learn ESP32/LearnLVGL v9.md",
+    "Learn ESP32/Practical UI Design Tips for Embedded Systems Engineers.md",
+    "Learn ESP32/LearnFlash Encryption.md",
+    "Learn ESP32/Learn ESP32.md",
+    "Welcome.md",
+    "Learn ESP32"
+  ]
+}
