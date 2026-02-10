@@ -11,13 +11,32 @@
             "id": "55722c0af05eac51",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Learn STM32/Online Course.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Online Course"
+            }
+          },
+          {
+            "id": "0817fd4e09385c12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learn STM32/Ebooks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ebooks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,11 +195,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8e3238c833b9569",
+  "active": "0817fd4e09385c12",
   "lastOpenFiles": [
+    "Learn STM32/Online Course.md",
+    "Learn STM32/Ebooks.md",
     "Learn STM32",
     "Learn ESP32/LearnLVGL v9.md",
     "Learn ESP32/Practical UI Design Tips for Embedded Systems Engineers.md",
