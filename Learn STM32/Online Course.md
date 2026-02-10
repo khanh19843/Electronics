@@ -1,5 +1,5 @@
 1. Microcontroller Embedded C Programming: absolute beginners(Embedded C)
-2. Embedded Systems Programming on ARM Cortex-M3/M4 Processor(ARM Cortex M4 Processor specific)
+2. Embedded Systems Programming on ARM Cortex-M3/M4 Processor (ARM Cortex M4 Processor specific)
 3. Mastering Microcontroller and Embedded Driver Development (MCU1)
 4. Mastering Microcontroller: Timers, PWM, CAN, Low Power(MCU2)
 5. Mastering Microcontroller: STM32-LTDC, LCD-TFT, LVGL (MCU3)
