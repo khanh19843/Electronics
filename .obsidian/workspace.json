@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PCB Design/Online.md",
+                "file": "Learn Arduino/Ebooks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Online"
+              "title": "Ebooks"
             }
           }
         ]
@@ -184,13 +184,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8e3238c833b9569",
+  "active": "bdaf5e2999476c72",
   "lastOpenFiles": [
-    "3D Printing",
     "Learn Arduino/Online.md",
+    "Learn Arduino/Ebooks.md",
     "PCB Design/Online.md",
+    "3D Printing",
     "PCB Design",
-    "Learn Arduino/Untitled 1.md",
     "Learn STM32/Online Course.md",
     "Learn Atmega AVR",
     "Learn Arduino",
